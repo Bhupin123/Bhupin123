@@ -28,7 +28,7 @@ I’m currently **learning to become a data analyst**, focused on mastering:
 
 ### 🔹 Sales Dashboard  
 - Analyzing monthly sales KPIs using Python  
-- Tools: pandas, Matplotlib, Seaborn
+- Tools: pandas, streamlit
 
 ### 🔹 Customer Segmentation  
 - Built K‑Means clustering model to segment clients  
