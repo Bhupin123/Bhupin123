@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+Data+Engineer+|+Learning+Every+Day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+Data+Engineer+Learning+Every+Day" alt="Typing SVG"/>
 </div>
 
 <p align="center">
