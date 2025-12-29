@@ -7,7 +7,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=postgresql"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img alt="PowerBI" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+  <img alt="PowerBI" src="https://img.shields.io/badge/powerbi-E97627?style=for-the-badge&logo=powerbi"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
@@ -18,7 +18,7 @@ I’m currently **learning to become a data analyst**, focused on mastering:
 
 - 🐍 **Python** (pandas, NumPy)
 - **SQL** and relational databases (PostgreSQL)
-- 📊 **Data visualization** (Tableau, Matplotlib, Seaborn)
+- 📊 **Data visualization** (PowerBI, Matplotlib, Seaborn)
 - 📈 **Statistics & analytics** (regression, hypothesis testing)
 - 🤖 **Intro to ML** (clustering, predictive modeling)
 
