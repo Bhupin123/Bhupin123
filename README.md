@@ -14,9 +14,9 @@
 ---
 
 ## 👋 About Me
-I’m currently **learning to become a data analyst**, focused on mastering:
+I’m currently **learning to become a data engineeer**, focused on mastering:
 
-- 🐍 **Python** (pandas, NumPy)
+- 🐍 **Python** (pandas, NumPy,matplotlib, seaborn, scikitlearn, pyspark)
 - **SQL** and relational databases (PostgreSQL)
 - 📊 **Data visualization** (PowerBI, Matplotlib, Seaborn)
 - 📈 **Statistics & analytics** (regression, hypothesis testing)
@@ -44,15 +44,6 @@ I’m currently **learning to become a data analyst**, focused on mastering:
 
 ---
 
-## 📚 Learning Roadmap
-1. Python & SQL fundamentals  
-2. Data cleaning and exploratory analysis  
-3. Visualization mastery  
-4. Statistical methods for analytics  
-5. Intro to machine learning  
-6. Public dataset capstone project
-
----
 
 ## 📫 Connect With Me  
 <p align="center">
@@ -66,12 +57,6 @@ I’m currently **learning to become a data analyst**, focused on mastering:
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
-
-## 🤝 Feedback & Collaboration
-- Open to **code reviews** and constructive feedback  
-- Seeking mentorship, project partners, or dataset suggestions  
 
 ---
 
