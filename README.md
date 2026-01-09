@@ -16,11 +16,12 @@
 ## 👋 About Me
 I’m currently **learning to become a data engineeer**, focused on mastering:
 
-- 🐍 **Python** (pandas, NumPy,matplotlib, seaborn, scikitlearn, pyspark)
+- **Python** (pandas, NumPy,matplotlib, seaborn, scikitlearn, pyspark)
+- **CLOUD** AWS
+- **Big Data Technologies** Apache Spark, Apache Hadoop
 - **SQL** and relational databases (PostgreSQL)
-- 📊 **Data visualization** (PowerBI, Matplotlib, Seaborn)
-- 📈 **Statistics & analytics** (regression, hypothesis testing)
-- 🤖 **Intro to ML** (clustering, predictive modeling)
+- **Data ingestion tools** Apache Kafka
+- **Data visualization** (PowerBI, Matplotlib, Seaborn)
 
 ---
 
